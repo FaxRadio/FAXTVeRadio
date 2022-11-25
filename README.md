@@ -1,12 +1,13 @@
 #EXTM3U
 #EXTINF:0,Radio Video tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax Video
 https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
+
 #EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
 http://stream.zeno.fm/9kcy4bqq498uv
 #EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR 
 https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 #EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
-http://stream.zeno.fm/hu70hmkcu68uv
+http://stream.zeno.fm/hu70hmkcu68uv.m3u
 
 #EXTM3U url-tvg=" http://grade-de-lançamento.xml "            
 
@@ -20,6 +21,17 @@ http://stream.zeno.fm/hu70hmkcu68uv
 
 #EXTINF:-1 tvg-id=" iddocanaldefilmes " group-title="
 
+
+#EXTINF:0,Condenação Brutal tvg-id="iddocanaldefilmes" group-title="filmesA seis meses de sua liberdade, a vida pode se transformar em um inferno.
+https://troy2.s3.us-central-1.wasabisys.com/cdn3/CondenacaoBrutal.mp4
+Faltam apenas seis meses para Frank Leone (Sylvester Stallone), um prisioneiro modelo, terminar de cumprir sua pena por um crime menor, em uma prisão de segurança mínima. Até que, repentinamente, ele é transferido para uma prisão de segurança máxima que é administrada pelo diretor Drumgoole (Donald Sutherland), que nutre um imenso ódio por Leone e vai fazer de tudo para que ele nunca mais seja solto, pois transformará o que resta da sua pena em um inferno. Drumgoole espera que fazendo isto Leone irá se descontrolar, justificando uma ação violenta dos guardas ou mesmo dos detentos, que provocam Leone para conseguir algum favor de Drumgoole." tvg-logo="https://image.tmdb.org/t/p/w342/fDyEClXTDc13iEXjEZaw6mNb4uy.jpg" -Condenação Brutal
+https://troy2.s3.us-central-1.wasabisys.com/cdn3/CondenacaoBrutal.mp4
+#EXTINF:0,Coisa-Malu  tvg-id="iddocanaldefilmes" group-title="filmesMalu é uma criança tímida que passa seus dias fantasiando. Certo dia, conduzida por uma melodia, atravessa um portal que a transporta para uma terra mágica. Nela, Malu encontrará seres fantásticos e diversos desafios enquanto procura a música que a levou até lá." tvg-logo="https://vdn.libreflix.org/covers/media/2017/coisa-malu-thumb.jpg?resize=480,270&crop=entropy" -Coisa-Malu
+https://vdn.libreflix.org/video/coisa-malu/coisa-malu.720.mp4
+#EXTINF:0,Sintel  tvg-id="iddocanaldefilmes" group-title="filmesO filme acompanha uma garota chamada Sintel, que está à procura de um dragão bebê chamado Scales." tvg-logo="https://i.ytimg.com/vi/5AliE5o76z8/maxresdefault.jpg" -Sintel
+https://vdn.libreflix.org/video/sintel/sintel.360.mp4
+#EXTINF:0,Lú  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://vdn.libreflix.org/covers/media/53aa0ea0-0b91-11ec-9742-4bf51aa62f72bcb56990-eae8-11eb-b74e-f33afdab038ecapa_filme_wide.jpg?resize=480,270&crop=entropy" -Lú
+https://vdn.libreflix.org/video/lu/lu.360.mp4
 #EXTINF:0,Dois Loucos com Sorte (1983)  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://i.ytimg.com/vi/5AliE5o76z8/maxresdefault.jpg" -Dois Loucos com Sorte (1983)
 https://youtu.be/5AliE5o76z8
 #EXTINF:0,Homem-Aranha  tvg-id="iddocanaldefilmes" group-title="filmes" tvg-logo="https://superdudes.nl/wp-content/uploads/2020/04/spider-man-hangend.gif" -Homem-Aranha 
